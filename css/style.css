@@ -10,10 +10,7 @@
 
 /* Home */
 @import "./home/introducao.css";
-<<<<<<< HEAD
 @import "./home/tecnologia.css";
-=======
->>>>>>> cbcf2cfd713753ccdf14fe548270d8a654496839
 
 /* Bicicletas */
 @import "./bicicletas/bicicletas-listas.css";
